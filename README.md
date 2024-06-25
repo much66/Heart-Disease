@@ -64,8 +64,13 @@ Support Vector Machine|89.66%| 89.64%
 
 <br>
 <p align="center">
-    <kbd> <img width="1000" alt="feats" src="Komparasi Model.png"> </kbd> <br>
+    <kbd> <img width="1000" alt="Models" src="Komparasi Model.png"> </kbd> <br>
     Gambar 2 — Perbandingan model
+</p>
+<br>
+<p align="center">
+    <kbd> <img width="1000" alt="feats" src="Feature Importance.png"> </kbd> <br>
+    Gambar 3 — Feature Importance
 </p>
 <br>
 
@@ -78,5 +83,5 @@ Support Vector Machine|89.66%| 89.64%
 
 <p align="center">
     <kbd> <a href="https://public.tableau.com/views/HeartDisease_17192394275550/HeartDisease?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link" target="_blank"><img width="1000" alt="Dashboard" src="Dashboard Heart.jpg"></a></kbd> <br>
-    Gambar 3 — Dashboard Heart Disease
+    Gambar 4 — Dashboard Heart Disease
 </p>
