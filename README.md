@@ -1,4 +1,4 @@
-# Heart-Disease-Classification
+# Heart Disease Classification
 
 **Dataset** : [source](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) <br>
 **Notebook** : [view](https://github.com/much66/Optimalisasi-Portofolio-Saham/blob/main/Banking_Stock_Forecasting.ipynb)<br>
@@ -39,10 +39,10 @@ Objectives.
 <br>
 
 ## 📂 Insight
-- Prediksi harga setiap saham 7 periode mendatang
-- Maksimal kerugian setiap saham
-- Kestabilan harga setiap saham
-- Rekomendasi saham berdasarkan Volatility dan VaR Terkecil
+- Akurasi Prediksi yang Tinggi
+- Identifikasi Faktor Risiko Utama
+- Peningkatan Efisiensi Klinis
+- Metrik Evaluasi yang Komprehensif
 <br>
 
 ## 📂 Modeling and Evaluation
