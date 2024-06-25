@@ -1,8 +1,8 @@
 # Heart Disease Classification
 
 **Dataset** : [source](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) <br>
-**Notebook** : [view](https://github.com/much66/Optimalisasi-Portofolio-Saham/blob/main/Banking_Stock_Forecasting.ipynb)<br>
-**Deck** : [view](https://github.com/much66/Optimalisasi-Portofolio-Saham/blob/main/Deck%20Presentasi.pdf)<br>
+**Notebook** : [view](https://github.com/much66/Heart-Disease/blob/main/Heart_Disease_Classification.ipynb)<br>
+**Deck** : [view](https://public.tableau.com/views/HeartDisease_17192394275550/HeartDisease?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)<br>
 
 <br>
 
