@@ -69,7 +69,7 @@ Support Vector Machine|89.66%| 89.64%
 </p>
 <br>
 <p align="center">
-    <kbd> <img width="1000" alt="feats" src="Feature Importance.png"> </kbd> <br>
+    <kbd> <img width="600" alt="feats" src="Feature Importance.png"> </kbd> <br>
     Gambar 3 — Feature Importance
 </p>
 <br>
