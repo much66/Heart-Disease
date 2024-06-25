@@ -77,6 +77,6 @@ Support Vector Machine|89.66%| 89.64%
 
 
 <p align="center">
-    <kbd> <img width="800" alt="feats" src="Dashboard Heart.jpg"> </kbd> <br>
-    Gambar 3 — <a href="https://public.tableau.com/views/HeartDisease_17192394275550/HeartDisease?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link">Dashboard Saham Optimal</a>
+    <kbd> <a href="https://public.tableau.com/views/HeartDisease_17192394275550/HeartDisease?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link" target="_blank"><img width="1000" alt="Dashboard" src="Dashboard Heart.jpg"></a></kbd> <br>
+    Gambar 3 — Dashboard Heart Disease
 </p>
