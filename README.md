@@ -64,7 +64,7 @@ Support Vector Machine|89.66%| 89.64%
 
 <br>
 <p align="center">
-    <kbd> <img width="1000" alt="feats" src="Komparasi.png"> </kbd> <br>
+    <kbd> <img width="1000" alt="feats" src="Komparasi Model.png"> </kbd> <br>
     Gambar 2 — Perbandingan model
 </p>
 <br>
