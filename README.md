@@ -52,13 +52,13 @@ Objectives.
     - Dilakukan percobaan menggunakan beberapa metode seperti Support Vector Machine, Random Forest, Naive Bayes, Extreme Gradient Boosting, K-Nearest Neighbour.
     - Evaluasi dilakukan menggunakan Accuracy dan Roc Auc Score.
 - Hasil Percobaan
-| Model                    | Accuracy   | ROC and AUC Score |
-|--------------------------|------------|-------------------|
-| Naive Bayes              | 87.93%     | 87.74%            |
-| Random Forest            | 87.93%     | 87.86%            |
-| Extreme Gradient Boost   | 87.93%     | 87.74%            |
-| K-Nearest Neighbour      | 89.66%     | 89.52%            |
-| Support Vector Machine   | 89.66%     | 89.64%            |
+Model|Accuracy|ROC and AUC Score
+---|---|---
+Naive Bayes              | 87.93%     | 87.74%            
+Random Forest            | 87.93%     | 87.86%            
+Extreme Gradient Boost   | 87.93%     | 87.74%           
+K-Nearest Neighbour      | 89.66%     | 89.52%            
+Support Vector Machine   | 89.66%     | 89.64%            
 
 
 <br>
