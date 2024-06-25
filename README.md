@@ -33,7 +33,7 @@ Objectives.
 
 ## 📂 Workflow
 <p align="center">
-    <kbd> <img width="1000" alt="workflow" src="Workflow Forecasting.png"> </kbd> <br>
+    <kbd> <img width="1000" alt="workflow" src="Workflow HDC.png"> </kbd> <br>
     Gambar 1 — Workflow Pembuatan Model
 </p>
 <br>
@@ -49,13 +49,17 @@ Objectives.
 - Pembagian Dataset
     - Dataset dibagi dengan rasio 80% untuk data latih (Train) dan 20% untuk data uji (Test).
 - Percobaan dengan Beberapa Metode
-    - Dilakukan percobaan menggunakan beberapa metode seperti Prophet, ARIMA, Neural Prophet, dan Exponential Smoothing.
-    - Evaluasi dilakukan menggunakan Mean Absolute Percentage Error (MAPE) untuk mengukur akurasi prediksi.
+    - Dilakukan percobaan menggunakan beberapa metode seperti Support Vector Machine, Random Forest, Naive Bayes, Extreme Gradient Boosting, K-Nearest Neighbour.
+    - Evaluasi dilakukan menggunakan Accuracy dan Roc Auc Score.
 - Hasil Percobaan
-    - ARIMA: MAPE 0.3009
-    - Exponential Smoothing: MAPE 0.0720
-    - Neural Prophet: MAPE 0.1730
-    - Prophet: MAPE 0.036 (Akurasi tertinggi)
+| Model                    | Accuracy   | ROC and AUC Score |
+|--------------------------|------------|-------------------|
+| Naive Bayes              | 87.93%     | 87.74%            |
+| Random Forest            | 87.93%     | 87.86%            |
+| Extreme Gradient Boost   | 87.93%     | 87.74%            |
+| K-Nearest Neighbour      | 89.66%     | 89.52%            |
+| Support Vector Machine   | 89.66%     | 89.64%            |
+
 
 <br>
 <p align="center">
