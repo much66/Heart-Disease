@@ -76,9 +76,14 @@ Support Vector Machine|89.66%| 89.64%
 
 
 ## 📂 Recommendations
-- Penggunaan Metode Prophet dan Simulasi Monte Carlo: Gunakan Prophet untuk prediksi harga saham dan Simulasi Monte Carlo untuk memperkirakan skenario pergerakan harga di masa depan, memahami risiko dan return dengan lebih baik.
-- Portofolio Jangka Pendek: Fokuskan investasi pada jangka pendek (1-3 bulan) untuk responsif terhadap perubahan pasar, monitor kinerja secara berkala, dan sesuaikan portofolio dengan analisis risiko terkini.
-- Diversifikasi Saham dengan Volatilitas dan VaR Terendah: Diversifikasikan portofolio dengan saham berisiko rendah, prioritaskan kestabilan harga dan minimalkan potensi kerugian, sehingga portofolio tetap terlindungi dari fluktuasi ekstrem dan memberikan return yang stabil.
+- Fokus pada Fitur Penting untuk Diagnosis:
+  - Chest Pain Type (cp)
+  - Number of Major Vessels (ca)
+  - Sex
+  - Oldpeak
+- Implementasi Model SVC dan KNN dalam Sistem Klinis: Model ini telah menunjukkan akurasi tinggi (89.66%) dan kemampuan prediktif yang baik (ROC AUC 89.64%), sehingga dapat meningkatkan ketepatan diagnosa.
+- Penggunaan Model untuk Prediksi Awal dan Pencegahan: Dengan deteksi dini menggunakan algoritma yang telah terbukti efektif, intervensi medis dapat dilakukan lebih cepat, yang dapat mengurangi risiko komplikasi serius dan meningkatkan hasil jangka panjang bagi pasien.
+- Pendidikan dan Pelatihan untuk Profesional Medis: Dengan pemahaman yang lebih baik tentang bagaimana fitur seperti cp, ca, sex, dan oldpeak mempengaruhi risiko penyakit jantung, tenaga medis dapat membuat keputusan yang lebih baik dan memberikan perawatan yang lebih terarah.
 
 
 <p align="center">
